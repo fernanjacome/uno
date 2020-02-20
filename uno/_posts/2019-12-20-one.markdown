@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Introduccion a la Ingenieria en Software"
+featImg: 2019-12-20-one.jpg
+author: Fernando
+categories: software
+permalink: /introduccion/
+---
+<h2>La Ingeniería del Software</h2>
+<p> Es una disciplina o área de la Informática que ofrece métodos y técnicas para</p>
+<p>desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias</p> 
+<p>definiciones sobre esta ciencia de la computación que permiten describir este proceso.</p>
+
+
+<h2>Diferencia  entre Ingenieria de Software y Computacion</h2>
+
+<p>La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.</p>
+<p>La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software.</p>
+<p>Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.</p>
+ 
+<h2>Que es el Software?</h2>
+
+<p>Programas de cómputo y su documentacion asociada.</p>
+
+<h2>Que contiene el software?</h2>
+
+<p>El software contiene: </p>
+<p>-Líneas de código de algún lenguaje</p>
+<p>-Instrucciones de computadora. </p>
+<p>-Descripción de las estructuras de datos. </p>
+<p>-Algoritmos. </p>
+<p>-Procedimientos y funciones.</p> 
+<p>-Componentes de software.</p>

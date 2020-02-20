@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% for post in site.posts offset: 0 limit: 1 %}
+<header class="blog-index-header-main" style="background-image: url('{{ site.baseurl }}/assets/img/blog.jpg')">
+    <div class="overlay-dark"></div>
+    {% include nav.html %}
+    <div class="blog-index-title">
+        <h1 class="featured-blog-post-title">{{ post.title }}</h1>
+        <a href="{{ post.url }}" class="read-featured-blog-post">Leer</a>
+    </div>
+</header>
+{% endfor %}

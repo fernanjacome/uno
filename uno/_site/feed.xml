@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-19T22:23:08-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fernando Jacome</title><subtitle>Esta es una descripcion.</subtitle><entry><title type="html">Introduccion a la Ingenieria en Software</title><link href="http://localhost:4000/introduccion/" rel="alternate" type="text/html" title="Introduccion a la Ingenieria en Software" /><published>2019-12-20T00:00:00-05:00</published><updated>2019-12-20T00:00:00-05:00</updated><id>http://localhost:4000/one</id><content type="html" xml:base="http://localhost:4000/introduccion/">&lt;h2&gt;La Ingeniería del Software&lt;/h2&gt;
+&lt;p&gt; Es una disciplina o área de la Informática que ofrece métodos y técnicas para&lt;/p&gt;
+&lt;p&gt;desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias&lt;/p&gt;
+&lt;p&gt;definiciones sobre esta ciencia de la computación que permiten describir este proceso.&lt;/p&gt;
+
+&lt;h2&gt;Diferencia  entre Ingenieria de Software y Computacion&lt;/h2&gt;
+
+&lt;p&gt;La computacion concierne a la teoria y fundamentos de cualquier sistema de computo, sea de hardware o de software.&lt;/p&gt;
+&lt;p&gt;La Ingenieria de software concierne solo al desarollo de sisetmas o productos de software.&lt;/p&gt;
+&lt;p&gt;Ingeniria de Sofware todavia esta lejos de ser una ciencia como los son la Quimica, la Ingenieria Civil o la Electronica.&lt;/p&gt;
+
+&lt;h2&gt;Que es el Software?&lt;/h2&gt;
+
+&lt;p&gt;Programas de cómputo y su documentacion asociada.&lt;/p&gt;
+
+&lt;h2&gt;Que contiene el software?&lt;/h2&gt;
+
+&lt;p&gt;El software contiene: &lt;/p&gt;
+&lt;p&gt;-Líneas de código de algún lenguaje&lt;/p&gt;
+&lt;p&gt;-Instrucciones de computadora. &lt;/p&gt;
+&lt;p&gt;-Descripción de las estructuras de datos. &lt;/p&gt;
+&lt;p&gt;-Algoritmos. &lt;/p&gt;
+&lt;p&gt;-Procedimientos y funciones.&lt;/p&gt;
+&lt;p&gt;-Componentes de software.&lt;/p&gt;</content><author><name>Fernando Jacome</name></author><summary type="html">La Ingeniería del Software Es una disciplina o área de la Informática que ofrece métodos y técnicas para desarrollar y mantener software de calidad que resuelven problemas de todo tipo. Existen varias definiciones sobre esta ciencia de la computación que permiten describir este proceso.</summary></entry><entry><title type="html">Fernando</title><link href="http://localhost:4000/software/2019/12/19/fernando/" rel="alternate" type="text/html" title="Fernando" /><published>2019-12-19T00:00:00-05:00</published><updated>2019-12-19T00:00:00-05:00</updated><id>http://localhost:4000/software/2019/12/19/fernando</id><content type="html" xml:base="http://localhost:4000/software/2019/12/19/fernando/"></content><author><name>Fernando Jacome</name></author><summary type="html"></summary></entry></feed>
